@@ -23,7 +23,7 @@ Step2:
 
 cmsDriver.py step2 --conditions auto:run2_mc -n 10 --eventcontent RAWSIM -s DIGI:pdigi_valid,L1,DIGI2RAW,HLT:Fake,RAW2DIGI,L1Reco --datatier GEN-SIM-DIGI-RAW-HLTDEBUG --customise SLHCUpgradeSimulations/Configuration/postLS1Customs.customisePostLS1 --no_exec
 
-2. PbPb configuration:
+2 PbPb configuration:
 
 Ks GEN-SIM:
 
